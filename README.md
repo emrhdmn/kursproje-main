@@ -1,8 +1,8 @@
-<h1>Kurs Projesi</h1>
+## `Course Project`
 
-Bu web sitesi, Göbekli Tepe hakkında bilgi veren ve bu tarihi ve kültürel mirası keşfetmeye yönlendiren bir kaynaktır. Göbekli Tepe, dünyanın en eski tapınak kompleksi olarak kabul edilen bir arkeolojik alanı içerir ve bu proje, bu önemli yeri tanıtmak ve ziyaretçilere daha fazla anlayış sunmak amacıyla oluşturulmuştur.
+This website is a resource that provides information about Göbekli Tepe and leads to discover this historical and cultural heritage. Göbekli Tepe contains an archaeological site considered the oldest temple complex in the world, and this project was created with the aim of introducing this important place and providing more understanding to the visitors.
 
-<h2>Bu web sitesi HTML ve CSS kullanılarak geliştirilmiştir. Basit ve kullanıcı dostu bir tasarım sunmayı hedeflemiş ve bilgilere kolay erişim sağlamıştır.</h2>
+<h2>This website was developed using HTML and CSS. It aimed to provide a simple and user-friendly design and provided easy access to information.</h2>
 
 ### `Deploy`
 https://emrhdmn.github.io/kursproje-main/
@@ -11,5 +11,5 @@ https://emrhdmn.github.io/kursproje-main/
 
 ![](/screen1.png)
 
-<h4>Bu proje, Göbekli Tepe'nin büyüleyici tarihini ve kültürel önemini tanıtmak ve paylaşmak amacıyla oluşturulmuştur. Göbekli Tepe'yi daha yakından tanımanıza ve bu önemli mirası keşfetmenize yardımcı olmak için bu web sitesini kullanın.</h4>
+This project was created to introduce and share the fascinating history and cultural importance of Göbekli Tepe. Use this website to help you get to know Göbekli Tepe better and discover this important heritage.
 
